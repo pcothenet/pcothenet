@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello! 👋
+
+- I'm Paul
+- 🔭 I’m the co-founder & CTO of [MadKudu](https://www.madkudu.com)
+- 🌱 I’m currently working my way through making an impact on our **climate crisis**. Please reach out if you're working on the problem!
+- 🏃‍♂️In my spare time, I like to [run all around the SF Bay Area](https://www.strava.com/athletes/104325)
+
+- A little while ago I had 5-minutes of HackerNews fame with [this article](http://attackwithnumbers.com/the-laws-of-shitty-dashboard)
+- Here's a talk at gave at Data Council about [building a startup around machine learning](https://www.datacouncil.ai/talks/building-a-lean-ai-startup-lessons-learned).
+
 
 <!--
 **pcothenet/pcothenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
