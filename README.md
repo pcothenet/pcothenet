@@ -1,8 +1,9 @@
 ### Hello! 👋
 
 - I'm Paul
-- 🔭 I’m the co-founder & CTO of [MadKudu](https://www.madkudu.com)
-- 🌱 I’m currently working my way through making an impact on our **climate crisis**. Please reach out if you're working on the problem!
+- 
+- 🌱 I’m currently working my way through making an impact on our **climate crisis**, as a Software Engineer at [Patch](https://www.patch.io)
+- - 🔭 Previously I co-founded (and was the CTO of) [MadKudu](https://www.madkudu.com)
 - 🏃‍♂️In my spare time, I like to [run all around the SF Bay Area](https://www.strava.com/athletes/104325)
 
 - A little while ago I had 5-minutes of HackerNews fame with [this article](http://attackwithnumbers.com/the-laws-of-shitty-dashboard)
