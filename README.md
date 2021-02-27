@@ -1,11 +1,11 @@
 ### Hello! 👋
 
 - I'm Paul
-- 
-- 🌱 I’m currently working my way through making an impact on our **climate crisis**, as a Software Engineer at [Patch](https://www.patch.io)
-- - 🔭 Previously I co-founded (and was the CTO of) [MadKudu](https://www.madkudu.com)
+- 🌱 I’m working my way through making an impact on our **climate crisis**, as a Software Engineer at [Patch](https://www.patch.io)
+- 🔭 Previously I co-founded (and was the CTO of) [MadKudu](https://www.madkudu.com)
 - 🏃‍♂️In my spare time, I like to [run all around the SF Bay Area](https://www.strava.com/athletes/104325)
 
+- If you're not sure how you can have an impact on climate, I'd suggest you [start by making it a habit](https://www.bears-repeating.com/build-a-climate-habit).
 - A little while ago I had 5-minutes of HackerNews fame with [this article](http://attackwithnumbers.com/the-laws-of-shitty-dashboard)
 - Here's a talk at gave at Data Council about [building a startup around machine learning](https://www.datacouncil.ai/talks/building-a-lean-ai-startup-lessons-learned).
 
