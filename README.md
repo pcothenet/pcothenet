@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+[![](https://badges.patch.io/org_prod_cd1877bdbc8b84cb04dd0ebe3df59940/dark/badge_with_usage.svg)](https://www.patch.io)
+
 - I'm Paul
 - 🌱 I’m working my way through making an impact on our **climate crisis**, as a Software Engineer at [Patch](https://www.patch.io)
 - 🔭 Previously I co-founded (and was the CTO of) [MadKudu](https://www.madkudu.com)
